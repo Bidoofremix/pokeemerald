@@ -6662,7 +6662,7 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
 
     [MOVE_AUTOTOMIZE] =
     {
-        .effect = EFFECT_AUTONOMIZE,
+        .effect = EFFECT_AUTOTOMIZE,
         .power = 0,
         .type = TYPE_STEEL,
         .accuracy = 0,
